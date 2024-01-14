@@ -1,6 +1,6 @@
 # This is benchmark of rust hashing algorythms
 
-My of results:
+The result on my laptop (Macbook Air M1):
 ```
 Algorithm: bcrypt
 Benchmark result: 237ms
